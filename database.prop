@@ -1,0 +1,4 @@
+driver = org.firebirdsql.jdbc.FBDriver
+dbURL  = jdbc:firebirdsql:class.mmcs.sfedu.ru/3050:/fbdata/employee.fdb ?encoding=UNICODE_FSS
+user   = IT38
+password = it38
