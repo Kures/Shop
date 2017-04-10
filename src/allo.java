@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.Properties;
 
+//allo
 public class allo {
     public static void main(String args[]) {
         Properties pr = new Properties();
